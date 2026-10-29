@@ -1,0 +1,5 @@
+{
+  "name": "Scene Talk",
+  "description": "무작위 일상 장면 역할극이나 자유 대화로 영어로 말하고, 끝나면 내 문장을 원어민 표현으로 고친 복습 기록을 받는 말하기 연습 앱.",
+  "requestFramePermissions": ["microphone"]
+}

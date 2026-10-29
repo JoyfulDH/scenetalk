@@ -1,0 +1,17 @@
+{
+  "name": "scene-talk",
+  "version": "1.0.0",
+  "description": "English speaking practice: random everyday scenes or free talk, with a native-speaker review note after each conversation.",
+  "private": true,
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "express": "^4.21.2"
+  }
+}
